@@ -7,9 +7,9 @@ image: "img/background.jpg"
 date:   2016-06-23 12:12:12
 ---
 
-## one day
+### one day
 
-写了一段文艺的话
+写了一段文艺的话.................
 
 ### one moment
 
