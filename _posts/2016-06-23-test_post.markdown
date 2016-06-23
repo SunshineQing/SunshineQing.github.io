@@ -1,16 +1,16 @@
 ---
-title:  "一篇博客"
-subtitle: "测试用"
+title:  "新的一周"
+subtitle: "美丽心情"
 author: "Sunshine"
-avatar: "img/authors/coyate.png"
-image: "img/g.png"
-date:   2015-04-25 12:12:12
+avatar: "img/authors/psu.png"
+image: "img/background.jpg"
+date:   2016-06-23 12:12:12
 ---
 
-### 三级标题
+## one day
 
 写了一段文艺的话
 
-### 第二个标题
+### one moment
 
 写了另外一段文艺话
