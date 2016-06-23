@@ -3,7 +3,7 @@ title:  "一篇博客"
 subtitle: "快乐的一天"
 author: "Sunshine"
 avatar: "img/authors/psu.png"
-image: "img/111.jpg"
+image: "img/back.jpg"
 date:   2015-06-23 12:12:12
 ---
 
