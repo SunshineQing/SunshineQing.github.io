@@ -1,0 +1,16 @@
+---
+title:  "新的一周"
+subtitle: "美丽心情"
+author: "Sunshine"
+avatar: "img/authors/psu.png"
+image: "img/background.jpg"
+date:   2016-06-23 12:12:12
+---
+
+## one day
+
+写了一段文艺的话
+
+### one moment
+
+写了另外一段文艺话
