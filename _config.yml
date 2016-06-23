@@ -1,0 +1,7 @@
+# Site settings
+title: 我的博客
+description: 学习 心情
+keywords:  Blogging, Fun
+author: 娜乌西卡
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
