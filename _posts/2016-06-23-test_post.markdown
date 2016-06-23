@@ -2,7 +2,7 @@
 title:  "新的一周"
 subtitle: "美丽心情"
 author: "Sunshine"
-avatar: "img/authors/psu.png"
+avatar: "img/authors/coyate.png"
 image: "img/background.jpg"
 date:   2016-06-23 12:12:12
 ---
